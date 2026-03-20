@@ -41,3 +41,7 @@ yarn-error.log*
 next-env.d.ts
 gen-context.sh
 context.md
+gen-context.sh
+context.md
+gen-full-context.sh
+full-context.md
